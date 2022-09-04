@@ -1,0 +1,18 @@
+{
+    "source": {
+        "directories": [
+            "fakes",
+            "src"
+        ]
+    },
+    "timeout": 2,
+    "logs": {
+        "text": "infection.log",
+        "stryker": {
+            "badge": "master"
+        }       
+    },
+    "mutators": {
+        "@default": true
+    }
+}
