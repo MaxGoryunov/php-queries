@@ -10,7 +10,8 @@
         "phpmd/phpmd": "^2.12",
         "friendsofphp/php-cs-fixer": "^3.11",
         "rregeer/phpunit-coverage-check": "^0.3.1",
-        "phan/phan": "^5.4"
+        "phan/phan": "^5.4",
+        "nunomaduro/phpinsights": "^2.5"
     },
     "config": {
         "allow-plugins": {
